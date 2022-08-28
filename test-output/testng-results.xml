@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[hello appium]]>
+    </line>
+    <line>
+      <![CDATA[hello selenium]]>
+    </line>
+    <line>
+      <![CDATA[hello API]]>
+    </line>
+    <line>
+      <![CDATA[hello java]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="173" started-at="2022-08-28T18:54:26 IST" finished-at="2022-08-28T18:54:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="173" started-at="2022-08-28T18:54:26 IST" finished-at="2022-08-28T18:54:27 IST">
+      <class name="scripts.Testcase4">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:scripts.Testcase4@396f6598]" name="tc4" duration-ms="8" started-at="2022-08-28T18:54:27 IST" finished-at="2022-08-28T18:54:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hello API]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- scripts.Testcase4 -->
+      <class name="scripts.Testcase3">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:scripts.Testcase3@1f7030a6]" name="tc3" duration-ms="22" started-at="2022-08-28T18:54:27 IST" finished-at="2022-08-28T18:54:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hello appium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- scripts.Testcase3 -->
+      <class name="scripts.Testcase2">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:scripts.Testcase2@5a1c0542]" name="tc2" duration-ms="3" started-at="2022-08-28T18:54:27 IST" finished-at="2022-08-28T18:54:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hello selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- scripts.Testcase2 -->
+      <class name="scripts.Testcase1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:scripts.Testcase1@394e1a0f]" name="tc1" duration-ms="9" started-at="2022-08-28T18:54:27 IST" finished-at="2022-08-28T18:54:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- scripts.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
